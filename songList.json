@@ -1,72 +1,443 @@
 [
-    {
-        "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
-    },
-    {
-        "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
-    },
-    {
-        "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
-    },
-    {
-        "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
-    },
-    {
-        "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
-    },
-    {
-        "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
-    },
-    {
-        "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
-    },
-    {
-        "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
-    },
-    {
-        "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
-    },
-    {
-        "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
-    }
+  {
+    "id": 1,
+    "anime": "Roll Over and Die - Opening 1",
+    "name": "\"Liberator\" by PassCode",
+    "video": "https://eudist.animemusicquiz.com/cff9z8b5yq53rsvi.webm",
+    "mp3": null
+  },
+  {
+    "id": 2,
+    "anime": "[Oshi no Ko] - Opening 2",
+    "name": "\"TEST ME\" by CHANMINA",
+    "video": "https://eudist.animemusicquiz.com/945isw7e0cmjtpg7.webm",
+    "mp3": null
+  },
+  {
+    "id": 3,
+    "anime": "An Adventurer's Daily Grind at Age 29 - Opening 1",
+    "name": "\"Kimi ga Tomoshite Kureta Hikari o Ima\" by HoneyWorks feat.Hanon",
+    "video": "https://eudist.animemusicquiz.com/0x8jzowkab9flma7.webm",
+    "mp3": null
+  },
+  {
+    "id": 4,
+    "anime": "The Villainess Is Adored by the Prince of the Neighbor Kingdom - Opening 1",
+    "name": "\"Ai no Fanfare\" by Ayahi Takagaki feat. Yu Shirota",
+    "video": "https://eudist.animemusicquiz.com/2jnk3654n7ezekcy.webm",
+    "mp3": null
+  },
+  {
+    "id": 5,
+    "anime": "Assassination Classroom Second Season - Opening 2",
+    "name": "\"Setsuna Blossom\" by 3-nen E-gumi Utatan",
+    "video": "https://eudist.animemusicquiz.com/gpt06hgtux79a355.webm",
+    "mp3": null
+  },
+  {
+    "id": 6,
+    "anime": "Blue Miburo Season 2 - Opening 1",
+    "name": "\"Blue Noise\" by Ryosuke Yamada",
+    "video": "https://eudist.animemusicquiz.com/ult2pfwuicrrf7qn.webm",
+    "mp3": null
+  },
+  {
+    "id": 7,
+    "anime": "The Case Book of Arne - Opening 1",
+    "name": "\"Q.E.D.\" by Sou",
+    "video": "https://eudist.animemusicquiz.com/bms7zrtq01yrfkfq.webm",
+    "mp3": null
+  },
+  {
+    "id": 8,
+    "anime": "Cardfight!! Vanguard Divinez Parallactic Clash Arc - Opening 1",
+    "name": "\"Genkai\" by V.W.P",
+    "video": "https://eudist.animemusicquiz.com/3pzssolqfniyc1ja.webm",
+    "mp3": null
+  },
+  {
+    "id": 9,
+    "anime": "Champignon Witch - Opening 1",
+    "name": "\"Mahoutsukai no Nikki\" by ROSU",
+    "video": "https://eudist.animemusicquiz.com/8kgnyh2ad9ofoz14.webm",
+    "mp3": null
+  },
+  {
+    "id": 10,
+    "anime": "Chibi Maruko-chan - Opening 13",
+    "name": "\"Odoru Ponpokorin\" by Ado",
+    "video": "https://eudist.animemusicquiz.com/qiydpiugrzuhpt0l.webm",
+    "mp3": null
+  },
+  {
+    "id": 11,
+    "anime": "Dark Moon: The Blood Altar - Opening 1",
+    "name": "\"One In A Billion (Japanese Ver.)\" by ENHYPEN",
+    "video": "https://eudist.animemusicquiz.com/937plz9s0scuwjyu.webm",
+    "mp3": null
+  },
+  {
+    "id": 12,
+    "anime": "The Darwin Incident - Opening 1",
+    "name": "\"Make Me Wonder\" by Official HIGE DANdism",
+    "video": "https://eudist.animemusicquiz.com/w14lp4qlsnt86msm.webm",
+    "mp3": null
+  },
+  {
+    "id": 13,
+    "anime": "Dead Account - Opening 1",
+    "name": "\"Dead End\" by Haru Igarashi",
+    "video": "https://eudist.animemusicquiz.com/vxs3gqqepc8xgycg.webm",
+    "mp3": null
+  },
+  {
+    "id": 14,
+    "anime": "Anyway, I'm Falling in Love with You - Opening 1",
+    "name": "\"L to R\" by ME:I",
+    "video": "https://eudist.animemusicquiz.com/6okt4d3nih7tsar4.webm",
+    "mp3": null
+  },
+  {
+    "id": 15,
+    "anime": "Duel Masters Lost: Boukyaku no Taiyou - Opening 1",
+    "name": "\"Ayakashi Ayashi\" by Kashitaro Ito",
+    "video": "https://eudist.animemusicquiz.com/2glz6c1sqbu53n7d.webm",
+    "mp3": null
+  },
+  {
+    "id": 16,
+    "anime": "Fire Force Season 3 - Opening 1",
+    "name": "\"Ignis\" by Takanori Nishikawa",
+    "video": "https://eudist.animemusicquiz.com/w7qwe6nyo4nim69x.webm",
+    "mp3": null
+  },
+  {
+    "id": 17,
+    "anime": "The Holy Grail of Eris - Opening 1",
+    "name": "\"Happy Ever After\" by Reina Washio feat. YU-KA",
+    "video": "https://eudist.animemusicquiz.com/mgmoef1w6ckkatj6.webm",
+    "mp3": null
+  },
+  {
+    "id": 18,
+    "anime": "Fate/strange Fake - Opening 2",
+    "name": "\"PROVANT\" by SawanoHiroyuki[nZk]:Jean-Ken Johnny & TAKUMA",
+    "video": "https://eudist.animemusicquiz.com/4pslztee45qx37ul.webm",
+    "mp3": null
+  },
+  {
+    "id": 19,
+    "anime": "Golden Kamuy - Opening 1",
+    "name": "\"Ougon no Kanata\" by Awich × ALI",
+    "video": "https://eudist.animemusicquiz.com/vly5ln27xyytsa8m.webm",
+    "mp3": null
+  },
+  {
+    "id": 20,
+    "anime": "The Daily Life of a Part-time Torturer - Opening 1",
+    "name": "\"GO GO PARADISE!!\" by GRANRODEO",
+    "video": "https://eudist.animemusicquiz.com/wxo6nu7az2soteug.webm",
+    "mp3": null
+  },
+  {
+    "id": 21,
+    "anime": "Hana-Kimi - Opening 1",
+    "name": "\"Adrena\" by YOASOBI",
+    "video": "https://eudist.animemusicquiz.com/j6qels52ksks1o1y.webm",
+    "mp3": null
+  },
+  {
+    "id": 22,
+    "anime": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing - Opening 1",
+    "name": "\"Haku\" by Atarayo",
+    "video": "https://eudist.animemusicquiz.com/19vxfyey760febxa.webm",
+    "mp3": null
+  },
+  {
+    "id": 23,
+    "anime": "High School! Kimengumi - Opening 1",
+    "name": "\"Funky Spice\" by BREIMEN feat.TOMOO",
+    "video": "https://eudist.animemusicquiz.com/i5a7nk5gr9trn1nr.webm",
+    "mp3": null
+  },
+  {
+    "id": 24,
+    "anime": "Oedo Fire Slayer: The Legend of Phoenix - Opening 1",
+    "name": "\"Hamidashi Gomen\" by Porno Graffitti",
+    "video": "https://eudist.animemusicquiz.com/1qzz1ek5qa0zc9j3.webm",
+    "mp3": null
+  },
+  {
+    "id": 25,
+    "anime": "'Tis Time for \"Torture,\" Princess - Opening 1",
+    "name": "\"Sunday Morning\" by ILLIT",
+    "video": "https://eudist.animemusicquiz.com/yapyvyydnxdj38vw.webm",
+    "mp3": null
+  },
+  {
+    "id": 26,
+    "anime": "Elegy for the Henchmen: Fist of the North Star - Opening 1",
+    "name": "\"Blacker Co., Ltd.\" by ITSUKA▶",
+    "video": "https://eudist.animemusicquiz.com/odsv1c0go6k7ggrq.webm",
+    "mp3": null
+  },
+  {
+    "id": 27,
+    "anime": "Hoppe-chan: Mystery of the Sun Kingdom and the Black-Cheek Team - Opening 1",
+    "name": "\"Hope & Jump\" by EXILE B HAPPY feat. Crystal Kay",
+    "video": "https://eudist.animemusicquiz.com/fyiycuha68jxpk6t.webm",
+    "mp3": null
+  },
+  {
+    "id": 28,
+    "anime": "Journal with Witch - Opening 1",
+    "name": "\"Sonare\" by TOMOO",
+    "video": "https://eudist.animemusicquiz.com/jh4cwixsaiaow7i6.webm",
+    "mp3": null
+  },
+  {
+    "id": 29,
+    "anime": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter - Opening 1",
+    "name": "\"Magic\" by kobore",
+    "video": "https://eudist.animemusicquiz.com/rwbtsic12rfxaw5z.webm",
+    "mp3": null
+  },
+  {
+    "id": 30,
+    "anime": "Hell Teacher: Jigoku Sensei Nube - Opening 1",
+    "name": "\"ERASE\" by THE ORAL CIGARETTES",
+    "video": "https://eudist.animemusicquiz.com/x84qmf285xr85trt.webm",
+    "mp3": null
+  },
+  {
+    "id": 31,
+    "anime": "Hell's Paradise - Opening 1",
+    "name": "\"Kasukana Hana\" by Tatsuya Kitani feat. BABYMETAL",
+    "video": "https://eudist.animemusicquiz.com/opna02ofo5s75j51.webm",
+    "mp3": null
+  },
+  {
+    "id": 32,
+    "anime": "A Misanthrope Teaches a Class for Demi-Humans - Opening 1",
+    "name": "\"Ningen\" by Masayoshi Ooishi",
+    "video": "https://eudist.animemusicquiz.com/adc0g23q06y6a5lt.webm",
+    "mp3": null
+  },
+  {
+    "id": 33,
+    "anime": "Jujutsu Kaisen Season 3 - Opening 1",
+    "name": "\"AIZO\" by King Gnu",
+    "video": "https://eudist.animemusicquiz.com/p8ybi9sl3xs0ojj6.webm",
+    "mp3": null
+  },
+  {
+    "id": 34,
+    "anime": "Kaya-chan Isn't Scary - Opening 1",
+    "name": "\"Maboroshi no Yukue\" by Isekaijoucho",
+    "video": "https://eudist.animemusicquiz.com/y66x3rqq5l2irqrz.webm",
+    "mp3": null
+  },
+  {
+    "id": 35,
+    "anime": "Wash it All Away - Opening 1",
+    "name": "\"Kirei.\" by Yuu.",
+    "video": "https://eudist.animemusicquiz.com/uoynxij4dvbupeqc.webm",
+    "mp3": null
+  },
+  {
+    "id": 36,
+    "anime": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power - Opening 1",
+    "name": "\"Break off\" by SUPER★DRAGON",
+    "video": "https://eudist.animemusicquiz.com/u91mjkygy9zptot9.webm",
+    "mp3": null
+  },
+  {
+    "id": 37,
+    "anime": "Kunon the Sorcerer Can See - Opening 1",
+    "name": "\"Lachenalia no Yume\" by Isekaijoucho",
+    "video": "https://eudist.animemusicquiz.com/elbzeepq3gasybiq.webm",
+    "mp3": null
+  },
+  {
+    "id": 38,
+    "anime": "The Demon King's Daughter Is Too Kind!! - Opening 1",
+    "name": "\"We Can Do!!\" by Kaori Ishihara",
+    "video": "https://eudist.animemusicquiz.com/o7vx2opp7rqgfs9i.webm",
+    "mp3": null
+  },
+  {
+    "id": 39,
+    "anime": "Chained Soldier 2 - Opening 1",
+    "name": "\"Hikari yo, Boku ni.\" by Akari Kitou",
+    "video": "https://eudist.animemusicquiz.com/c4kg6nbm5jthet59.webm",
+    "mp3": null
+  },
+  {
+    "id": 40,
+    "anime": "Tune In to the Midnight Heart - Opening 1",
+    "name": "\"Tsuki ni Mukatte Ute\" by Hoshimachi Suisei",
+    "video": "https://eudist.animemusicquiz.com/wnkj5fgs2ks9jwyd.webm",
+    "mp3": null
+  },
+  {
+    "id": 41,
+    "anime": "Medalist - Opening 1",
+    "name": "\"Cold Night\" by HANA",
+    "video": "https://eudist.animemusicquiz.com/jfrdbmchbjkzus0c.webm",
+    "mp3": null
+  },
+  {
+    "id": 42,
+    "anime": "Detective Conan - Opening 61",
+    "name": "\"Heaven Knows\" by B'z",
+    "video": "https://eudist.animemusicquiz.com/3fijeakg39sxfaem.webm",
+    "mp3": null
+  },
+  {
+    "id": 43,
+    "anime": "Star Detective Precure! - Opening 1",
+    "name": "\"Heart ni Hint! Meitantei Precure!\" by Ami Ishii",
+    "video": "https://eudist.animemusicquiz.com/ialcdiia6sll5uo9.webm",
+    "mp3": null
+  },
+  {
+    "id": 44,
+    "anime": "MF Ghost 3rd Season - Opening 1",
+    "name": "\"TIMELESS POWER\" by Yuu Serizawa feat. MOTSU",
+    "video": "https://eudist.animemusicquiz.com/t5yws7w4b1emb5zw.webm",
+    "mp3": null
+  },
+  {
+    "id": 45,
+    "anime": "A Gentle Noble's Vacation Recommendation - Opening 1",
+    "name": "\"Gypso\" by Hikaru Makishima",
+    "video": "https://eudist.animemusicquiz.com/yksuhxvj7phcsnzc.webm",
+    "mp3": null
+  },
+  {
+    "id": 46,
+    "anime": "Easygoing Territory Defense by the Optimistic Lord - Opening 1",
+    "name": "\"Okirakuzation\" by Rei Nakashima",
+    "video": "https://eudist.animemusicquiz.com/bajwhrlpe1h833e1.webm",
+    "mp3": null
+  },
+  {
+    "id": 47,
+    "anime": "Playing Sister - Opening 1",
+    "name": "\"Doppelgänger\" by Harumaki Gohan feat.Hatsune Miku",
+    "video": "https://eudist.animemusicquiz.com/73hrt5ryfc7saogx.webm",
+    "mp3": null
+  },
+  {
+    "id": 48,
+    "anime": "You Can't Be In a Rom-Com with Your Childhood Friends! - Opening 1",
+    "name": "\"I Love You♡\" by HoneyWorks meets Rin Kusumi・Yuu Serizawa・Sae Hiratsuka・Yuuki Yamamoto",
+    "video": "https://eudist.animemusicquiz.com/oxhl4727qnjdudpy.webm",
+    "mp3": null
+  },
+  {
+    "id": 49,
+    "anime": "You and I Are Polar Opposites - Opening 1",
+    "name": "\"Megane o Hazushite\" by noa",
+    "video": "https://eudist.animemusicquiz.com/25vs7llvtwbf2526.webm",
+    "mp3": null
+  },
+  {
+    "id": 50,
+    "anime": "SHIBOYUGI: Playing Death Games to Put Food on the Table - Opening 1",
+    "name": "\"¬Ersterbend\" by LIN (MADKID)",
+    "video": "https://eudist.animemusicquiz.com/7jnvrfbayzo0kj8k.webm",
+    "mp3": null
+  },
+  {
+    "id": 51,
+    "anime": "SI-VIS: The Sound of Heroes - Opening 2",
+    "name": "\"Supernova\" by SI-VIS",
+    "video": "https://eudist.animemusicquiz.com/8pk7bcp6xy19pi8c.webm",
+    "mp3": null
+  },
+  {
+    "id": 52,
+    "anime": "Frieren: Beyond Journey's End - Opening 1",
+    "name": "\"lulu.\" by Mrs. GREEN APPLE",
+    "video": "https://eudist.animemusicquiz.com/sqy8ycjr34b4b8f4.webm",
+    "mp3": null
+  },
+  {
+    "id": 53,
+    "anime": "Tamon's B-Side - Opening 2",
+    "name": "\"Sweet Magic\" by F/ACE",
+    "video": "https://eudist.animemusicquiz.com/o724q1o5ib5nbdcr.webm",
+    "mp3": null
+  },
+  {
+    "id": 54,
+    "anime": "Reincarnated as a Dragon Hatchling - Opening 1",
+    "name": "\"Gliding Claw\" by Sizuk feat. AYAME",
+    "video": "https://eudist.animemusicquiz.com/s0ramwt08tj6sjjw.webm",
+    "mp3": null
+  },
+  {
+    "id": 55,
+    "anime": "The Invisible Man and His Soon-to-Be Wife - Opening 1",
+    "name": "\"Ding-dong\" by Mao Abe",
+    "video": "https://eudist.animemusicquiz.com/l8zehj04kcbej0vl.webm",
+    "mp3": null
+  },
+  {
+    "id": 56,
+    "anime": "Trigun Stargaze - Opening 1",
+    "name": "\"Picaresque Hero\" by ano",
+    "video": "https://eudist.animemusicquiz.com/yg302qr0bewa96tv.webm",
+    "mp3": null
+  },
+  {
+    "id": 57,
+    "anime": "In the Clear Moonlit Dusk - Opening 1",
+    "name": "\"Uruwashi\" by UNISON SQUARE GARDEN",
+    "video": "https://eudist.animemusicquiz.com/zsqtdpwuon6s5f8u.webm",
+    "mp3": null
+  },
+  {
+    "id": 58,
+    "anime": "My Hero Academia: Vigilantes - Opening 1",
+    "name": "\"CATCH!!!\" by THREEE",
+    "video": "https://eudist.animemusicquiz.com/rk901x5xwidufp1y.webm",
+    "mp3": null
+  },
+  {
+    "id": 59,
+    "anime": "Yoroi-Shinden Samurai Troopers - Opening 1",
+    "name": "\"YOAKE\" by blank paper",
+    "video": "https://eudist.animemusicquiz.com/mo9wfmt8n03jrvvq.webm",
+    "mp3": null
+  },
+  {
+    "id": 60,
+    "anime": "Scum of the Brave - Opening 1",
+    "name": "\"GUN POWDER\" by TOOBOE",
+    "video": "https://eudist.animemusicquiz.com/dhn1ltw2butezqlz.webm",
+    "mp3": null
+  },
+  {
+    "id": 61,
+    "anime": "There Was a Cute Girl in the Hero's Party, So I Tried Confessing to Her - Opening 1",
+    "name": "\"Lavish!!\" by Yoshino",
+    "video": "https://eudist.animemusicquiz.com/w6xi30eppwiypa6h.webm",
+    "mp3": null
+  },
+  {
+    "id": 62,
+    "anime": "Jack-of-All-Trades, Party of None - Opening 1",
+    "name": "\"Shirube\" by Tokoyami Towa",
+    "video": "https://eudist.animemusicquiz.com/1fi51fe3e0i1110u.webm",
+    "mp3": null
+  },
+  {
+    "id": 63,
+    "anime": "Sentenced to Be a Hero - Opening 1",
+    "name": "\"Kill the Noise\" by SPYAIR",
+    "video": "https://eudist.animemusicquiz.com/t2jc4iipu1494n7g.webm",
+    "mp3": null
+  }
 ]
